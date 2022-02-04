@@ -1,5 +1,5 @@
 # SpeedTypingTest
-Speed Typing Test in Python
+
 
 
 This is a speed typing test! 
